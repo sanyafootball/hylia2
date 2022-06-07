@@ -2,8 +2,8 @@
 title: A simple post
 date: 2020-06-08
 tags:
-- demo-content
 - simple-post
+- demo-content
 - blog
 
 ---
